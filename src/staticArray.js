@@ -33,7 +33,7 @@
                   return "index is not valid"
         } 
         if(this.arraySize===this.capacity){
-               return " arr is full"
+               return "arr is full"
         }
         for(let i=this.arraySize-1;i>=indx;i--){
 
